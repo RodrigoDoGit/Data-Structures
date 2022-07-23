@@ -4,4 +4,4 @@ Neste repositório está o código relativo à Unidade Curricular de Estruturas 
 | Diretório           | Descrição |
 | :------------------ | :------------------------------------------------------------------------------------------------------ |
 | Exemplos de Código  | Código fonte disponibilizado para teste e como base para resolução dos exercícios das aulas práticas |
-| Pr
+| Práticas            | Resoluções dos exerc

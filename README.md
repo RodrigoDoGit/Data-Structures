@@ -1,8 +1,8 @@
-# Estruturas de Dados (CC1007)
-Neste repositório está o código relativo à Unidade Curricular de Estruturas de Dados do Ano Letivo 2020/2021 - DCC/FCUP.
+# Data Structures (CC1007)
+This repository contains the code for Data Structures Course Unit of 2020/2021 Academic Year - DCC/FCUP.
 
-| Diretório           | Descrição |
+| Folder           | Description |
 | :------------------ | :------------------------------------------------------------------------------------------------------ |
-| Código Base         | Código fonte disponibilizado para resolução dos exercícios das aulas práticas (exceto Exemplos de Código) |
-| Exemplos de Código  | Código fonte disponibilizado para teste e como base para resolução dos exercícios das aulas práticas |
-| Práticas            | Resoluções dos exercícios das aulas práticas |
+| Base Code         | Source code given as base to solve the lab classes exercises (excluding Code Examples) |
+| Code Examples  | Source code given to test and as base to solve the lab classes exercises |
+| Lab Classes            | Resolutions of the lab classes exercises |
